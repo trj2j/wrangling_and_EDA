@@ -1,0 +1,15 @@
+[submodule "wrangling"]
+	path = wrangling
+	url = https://github.com/DS3001/wrangling
+[submodule "programming"]
+	path = programming
+	url = https://github.com/DS3001/programming
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/DS3001/visualization
+[submodule "github_intro"]
+	path = github_intro
+	url = https://github.com/DS3001/github_intro
+[submodule "EDA"]
+	path = EDA
+	url = https://github.com/DS3001/EDA
